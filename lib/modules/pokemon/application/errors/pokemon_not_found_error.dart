@@ -1,0 +1,1 @@
+class PokemonNotFoundError implements Exception {}

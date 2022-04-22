@@ -1,0 +1,1 @@
+class PokemonEmptyError implements Exception {}
